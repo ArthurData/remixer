@@ -3,3 +3,4 @@
 ^dev$
 ^\.github$
 ^README\.Rmd$
+^README\.html$
