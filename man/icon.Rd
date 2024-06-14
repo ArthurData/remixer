@@ -8554,6 +8554,9 @@ RiZzzFill(...)
 
 RiZzzLine(...)
 }
+\arguments{
+\item{...}{Props to pass to the component.}
+}
 \description{
 Remix Icon is a set of open-source neutral-style system symbols for designers and developers.
 }

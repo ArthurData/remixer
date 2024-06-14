@@ -8,6 +8,7 @@
 #' ** { size } Integer. Set custom `width` and `height`
 #' ** { color } Character. Set `fill` color
 #' ** { className } Character. Add custom class name
+#' @param ... Props to pass to the component.
 NULL
 
 #' @importFrom shiny.react reactElement asProps
