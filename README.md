@@ -28,3 +28,11 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(remixer)
 ```
+
+How to use it?
+
+Icons can be used in both Rmarkdown and Shiny applications.
+
+``` r
+Ri24HoursLine()
+```
