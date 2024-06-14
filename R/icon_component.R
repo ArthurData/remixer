@@ -1,9 +1,9 @@
-#' component
+#' icon
 #'
 #' @importFrom shiny.react reactElement asProps
 #'
 #' @noRd
-component <- function(name) {
+icon <- function(name) {
   function(...) {
     reactElement(
       module = "remixicon",
