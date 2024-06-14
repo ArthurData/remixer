@@ -1,0 +1,30 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# {remixer}
+
+<!-- badges: start -->
+
+[![R-CMD-check](https://github.com/ThinkR-open/remixer/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ThinkR-open/remixer/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
+
+`{remixer}` is a package that provides a set of functions around the
+[Remix Icon library](https://remixicon.com/).
+
+## Installation
+
+You can install the development version of remixer from
+[GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("ThinkR-open/remixer")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+``` r
+library(remixer)
+```
