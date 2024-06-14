@@ -1,0 +1,13 @@
+Package: remixer
+Title: Remix Icon Library
+Version: 0.0.0.9000
+Authors@R: 
+    person("Arthur", "Bréant", , "arthur@thinkr.fr", role = c("aut", "cre"))
+Description: Implement Remix Icon Library in R.
+License: MIT + file LICENSE
+Imports: 
+    htmltools,
+    shiny.react
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
