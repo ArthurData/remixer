@@ -18,7 +18,7 @@ You can install the development version of remixer from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("ThinkR-open/remixer")
+devtools::install_github("ArthurData/remixer")
 ```
 
 ## Example
